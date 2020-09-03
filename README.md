@@ -1,5 +1,5 @@
 # Common utilities
-> **Common utilities** is a collection of Java related utilities similar to Apache Commons to ease development
+> **Common utilities** is a collection of Java-related utilities similar to Apache Commons to ease development
 
 ## Getting started 
 To get a local copy up and running follow these simple example steps.
